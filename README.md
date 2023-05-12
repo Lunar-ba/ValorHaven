@@ -5,7 +5,7 @@ Welcome to New ValorHaven, an immersive and exhilarating Minecraft Survival SMP 
 
 
 
-⛏️ Gather resources, craft powerful tools, and construct magnificent structures.
+⛏️ Gather resources, craft tools, and construct magnificent structures.
 
 
 

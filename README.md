@@ -30,3 +30,8 @@ Welcome to New ValorHaven, an immersive and exhilarating Minecraft Survival SMP 
 
 
 📢 Join our Discord server to receive important announcements and be the first to know about any server updates or events.
+
+
+
+
+## wss://smp--darkreplcord.repl.co/server/

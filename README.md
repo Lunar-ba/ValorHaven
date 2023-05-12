@@ -34,4 +34,4 @@ Welcome to New ValorHaven, an immersive and exhilarating Minecraft Survival SMP 
 
 
 
-## wss://smp--darkreplcord.repl.co/Valor/
+## wss://smp--darkreplcord.repl.co/server/

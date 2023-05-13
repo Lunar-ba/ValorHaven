@@ -1,6 +1,6 @@
 # ValorHaven
 Welcome to New ValorHaven, an immersive and exhilarating Minecraft Survival SMP experience! Join our tight-knit community of dedicated players as we embark on a journey of adventure and camaraderie. Whether you're a seasoned survivor or just starting out, our server offers a challenging yet rewarding gameplay environment where you can build, mine, trade, and thrive!
-![ValorHaven](https://minecraftstorage.com/storage/posts/6f0970bb-b0ac-4db9-9a43-9f79d04f47b1/screenshots/1.png)
+!(https://minecraftstorage.com/storage/posts/6f0970bb-b0ac-4db9-9a43-9f79d04f47b1/screenshots/1.png)
 
 
 🔥 Explore Around the Map.

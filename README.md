@@ -37,3 +37,9 @@ Welcome to New ValorHaven, an immersive and exhilarating Minecraft Survival SMP 
 
 
 ## wss://smp--darkreplcord.repl.co/server/
+
+
+remember to join the discord and give us ur username to get whitelisted
+
+
+[Discord](https://discord.gg/gpetsCTedn)
